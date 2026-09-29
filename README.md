@@ -49,10 +49,10 @@ In `/docs`, open `POST /students`, choose **Try it out**, and submit:
 
 ```json
 {
-  "name": "Asha Kumar",
-  "roll_number": "FORESE001",
-  "department": "Computer Science",
-  "year": 1
+  "name": "Shivani Shri R D",
+  "roll_number": "2127250601091",
+  "department": "EEE",
+  "year": 2
 }
 ```
 
